@@ -1,0 +1,195 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 817px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 1140px;
+  height: 321px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 138px;
+  height: 138px;
+  background-image: url("images/baby-yoda-memes.jpg");
+  background-position: 50% 50%;
+  margin: -142px auto 0 41px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 400px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 200px;
+  background-image: url("images/33f48ff34b696406d995b6ca84fc3124da16d8d6cc00383af255835b95dc94ac1f81a3d1d70c95351bdbaa649c837d9bc990b7981f2a992091cc14_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-4 {
+  min-height: 200px;
+  background-image: url("images/8f4e8779702ef7a5a78661ca92a69ee9f885c8dc764bfe48b78b72d93dd9e17483e82c04632f4266e60be056c66ed624481c13b7c9715971c45d6f_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1058px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 940px;
+    height: 264px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -104px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 330px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 165px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 165px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 980px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 202px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -26px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 126px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 126px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1282px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 152px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -328px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 227px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 227px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 542px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 159px;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 56px;
+    height: 56px;
+    margin-top: -70px;
+    margin-left: 10px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 14px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 90px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 87px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 97px;
+  }
+}
